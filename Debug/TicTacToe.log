@@ -1,0 +1,10 @@
+﻿  TicTacToe.cpp
+C:\Users\leona\OneDrive\Desktop\Coding\C++\Tic-Tac-Toe\TicTacToe\TicTacToe.cpp(25,14): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+C:\Users\leona\OneDrive\Desktop\Coding\C++\Tic-Tac-Toe\TicTacToe\TicTacToe.cpp(27,14): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+C:\Users\leona\OneDrive\Desktop\Coding\C++\Tic-Tac-Toe\TicTacToe\TicTacToe.cpp(29,14): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+C:\Users\leona\OneDrive\Desktop\Coding\C++\Tic-Tac-Toe\TicTacToe\TicTacToe.cpp(31,14): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+C:\Users\leona\OneDrive\Desktop\Coding\C++\Tic-Tac-Toe\TicTacToe\TicTacToe.cpp(33,14): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+C:\Users\leona\OneDrive\Desktop\Coding\C++\Tic-Tac-Toe\TicTacToe\TicTacToe.cpp(35,14): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+C:\Users\leona\OneDrive\Desktop\Coding\C++\Tic-Tac-Toe\TicTacToe\TicTacToe.cpp(37,14): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+C:\Users\leona\OneDrive\Desktop\Coding\C++\Tic-Tac-Toe\TicTacToe\TicTacToe.cpp(39,14): warning C4553: '==': risultato dell'espressione non usato. Si intendeva '='?
+  TicTacToe.vcxproj -> C:\Users\leona\OneDrive\Desktop\Coding\C++\Tic-Tac-Toe\TicTacToe\Debug\TicTacToe.exe
